@@ -10,7 +10,7 @@ To get started with **git_commit_helper.py**, follow the instructions below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/lua99w/git_commit_helper.py.git
+https://github.com/ridwan-arch-v/git-commit-tools
 ```
 
 ### 2. Install Dependencies
